@@ -4,5 +4,5 @@
 3.	Raihan Agro Lestari (4817071143)
 4.	Wahyu Mulyadi (4817071496)
 
-Proses Stemming dengan nazief adriani dan librlari sastrawi
+Proses Stemming dengan nazief adriani dan librlari sastrawi , metode NB
 
